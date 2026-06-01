@@ -1,8 +1,9 @@
-metadata
+---
 license: apache-2.0
-title: chat with gpt
+title: Chat with gpt
 sdk: streamlit
 emoji: 🚀
-colorFrom: purple
-colorTo: yellow
-short_description: a simple llm integration
+colorFrom: indigo
+colorTo: blue
+short_description: A simple LLM integration app
+---
